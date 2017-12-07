@@ -16,7 +16,7 @@ The following features are currently under development.
 ### Release 2017.20.0.0
 2017-12-06 for on-prem and cloud
 
-**News**
+**New**
 * Maintenance message (exflow.cloud/multitenant)
 * Improves PDF image interaction
 * New languages AU and NZ
@@ -33,7 +33,7 @@ The following features are currently under development.
 ### Release 19.0
 Cloud only
 
-**News**
+**New**
 * New versioning 2017.19.0.0 (experimental)
 * Search and some inbox folders will sort based on Document Date or user preference rather than Due date.
 * Adds support for NAV order fields and order details
@@ -48,7 +48,7 @@ Cloud only
 ### Release 17
 2017-08-30 prerelease for on-prem
 
-**News**
+**New**
 * Adds UI improvements.
 * Improves client-side performance.
 * Improves performance when reloading settings from Dynamics.
